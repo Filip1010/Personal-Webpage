@@ -13,6 +13,7 @@ Tech:
 - Prominent display of professional background for emphasis and credibility.
 - Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
 - Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
-  and many more, including code architecture and reusability 
+  and many more, including code architecture and reusability
+- Features testimonials from clients I’ve worked with , and their raitings.
 
 This webpage will show my all projects in one, technologies I use, and APIs I’ve worked with.
